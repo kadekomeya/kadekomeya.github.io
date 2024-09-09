@@ -4,7 +4,7 @@ type: project
 image: 
 title: "Arduino Case Engineering Capstone Project"
 date: 2019
-published: false
+published: true
 labels:
   - 3D_modeling
   - AutoDesk_Inventor
