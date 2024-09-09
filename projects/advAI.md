@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "20230819224722_1.jpg"
+image: "AdvancedAI/20230819224722_1.jpg"
 title: "Advanced AI"
 date: 2022
 published: true
