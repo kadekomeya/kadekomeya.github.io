@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "On The Topic of TypeScript"
+title: "Thoughts on Workout Of the Day"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
 published: true
