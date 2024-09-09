@@ -6,7 +6,7 @@ title: "On The Topic of TypeScript"
 date: 2024-09-05
 published: true
 labels:
-  - WOD
+  - TypeScript
 ---
 So far, working with TypeScript reminds me of another programming language I had used prior to this - C#.
 
