@@ -4,7 +4,7 @@ type: project
 image: 
 title: "Advanced AI"
 date: 2022
-published: false
+published: true
 labels:
   - Unity
   - C#
@@ -13,7 +13,7 @@ labels:
 summary: "An advanced AI for a certain sandbox genre game about vehicles."
 ---
 
-The default AI in the game left many who fought against it wanting more challenge, as it was, to put it bluntly, limited.
+The default AI in the subject game left many who fought against it wanting more challenge, as it was, to put it bluntly, limited.
 Now I was member of the online community, obviously an anon to protect myself from the risks it could present.  I had enough experience building in this game to describe my own/others' building process in detail.  There was some scope which functional building creativity could reach in some legible manner.
 Enough connectable dots for an AI.
 
