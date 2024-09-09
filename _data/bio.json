@@ -4,8 +4,8 @@
     "label": "Student",
     "picture": "https://github.com/kadekomeya.png",
     "email": "komeyak@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "phone": "",
+    "website": "https://kadekomeya.github.io",
     "summary": "I am studying Computer Science at the University of Hawaii.  I have experimented with C#, Java, Lua, C, and a bit of C++.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
@@ -69,7 +69,7 @@
   "references": [
     {
       "name": "Anonymous internet presence",
-      "summary": "Contact me for more details.  This information is very sensitive due to the caliber of my presence in a potentially toxic atmosphere."
+      "summary": "Contact me for more details.  This information is very sensitive due to the caliber of my presence in a potentially toxic online atmosphere."
     }
   ]
 }
