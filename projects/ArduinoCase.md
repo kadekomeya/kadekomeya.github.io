@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/AutoDesk.jpg
 title: "Arduino Case Engineering Capstone Project"
 date: 2019
 published: true
