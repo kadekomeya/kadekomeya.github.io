@@ -14,6 +14,7 @@ summary: "A physics-based rail system for a vehicle sandbox game."
 ---
 This was a long time coming - I like trains, so gathering all my past knowledge to make a mod about them sounded fun.
 This was much more of a what-if scenerio during some free time.  What if there were trains in a game about prospecting?
+
 It began with planning out the rail network.  To begin with rails typically tend to follow a linear path, while bending and conforming to the existing terrain to reach from point A to point B. With how far the two points could be, rendering all of the track at once could potetntially crash the game.  Splitting the track into segments and only calculating and rendering what was within range permitted tracks of nearly any length to exist safely.
 I had orginally decided on using 3D bezier curves for the track generation algorithm to follow, but as-is it produced a track that floated in the air between the two points.  To resolve this, each loaded track segment would be procedually "shrink-wrapped" to the terrain.  This had considerable success, but not to the degree I was hoping for.  It took a layered algorithm to gradually taper the elevation and add bank on turns to make the tracks more natural.
 
