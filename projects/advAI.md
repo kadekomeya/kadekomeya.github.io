@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/20230819232618_1.jpg
-title: "Advanced AI"
+title: "Alternate AI"
 date: 2022
 published: true
 labels:
