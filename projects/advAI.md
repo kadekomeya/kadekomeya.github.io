@@ -36,5 +36,5 @@ Since then many more updates made it to the mod.
 
 I might use this knowledge to develop my own game later on, but until then I will continue to learn.
 
-This pertains to a public game community on Steam and the game is fairly popular and populated with a rather immature audience, and Google's web crawlers would *eventually* connect the dots if I posted the link here.  
+This pertains to a public game community on Steam and with any game it is populated with some complicated users.
 For more details on the subject, please contact me in person in class.
