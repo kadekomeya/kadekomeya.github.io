@@ -10,7 +10,7 @@ labels:
   - C#
   - Gaming
   - GitHub
-summary: "An advanced AI for a certain sandbox genre game about vehicles."
+summary: "An advanced AI for a sandbox about vehicles."
 ---
 
 The default AI in the subject game left many who fought against it wanting more challenge, as it was, to put it bluntly, limited.
