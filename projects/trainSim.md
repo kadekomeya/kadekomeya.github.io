@@ -21,9 +21,13 @@ I had orginally decided on using 3D bezier curves for the track generation algor
 I created some models and kitbashed them with others under permission to create a series of blocks to represent a basic train system.
 All of it was put together, and some users who were curious about the mod playtested it. 
 
-In hindsight the mod doesn't make much sense since most of the reasons for having a train is moot, and the mod remains unreleased to this day.
+In hindsight the mod doesn't make much sense since most of the reasons for having a train is moot, and the mod remains unreleased to this day.  Over time though, there have been other mods on the workshop that involve train tracks, so maybe when I clean up the remaining bugs, then I can release it to the public?
+
+Since the last update, the mod only had trains that didn't load the world around itself, but now it does.  It is much more practical for long-distance operations.  
+
+Looking back, I should note my inspirations for this mod as each of them additively were responsible for this mod's existence.  Before I had even begun to code back in my childhood, I had a fascination with trains and had the opportunity to play with a modular train set.  Then later on while browsing Youtube I stumbled upon some virtual train simulation videos which had some sort of physics engine in play.  Previously I had played a game called "Astroneer" which had a monorail system with bendy tracks which also seemed to use some form of bezier curve system,  Finally, even though it came out during the mod's development, a honorable mention would be the Minecraft Create mod with its buildable train system.  
 
 I may improve and use this knowledge if I ever decide on making a game though.
 
-This pertains to a public game community on Steam and with any game it is populated with some complicated users.
+This pertains to a public global game community on Steam and with any game it is populated with some complicated users.
 For more details on the subject, please contact me in person in class.
