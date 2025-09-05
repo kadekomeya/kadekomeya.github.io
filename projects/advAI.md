@@ -32,7 +32,7 @@ The player could always build a base, but the vanilla AI never did that, only th
 
 At this point, it turned out many community members liked the mod, which was originally limited to a small forum group.  When the Steam Workshop opened, people wanted to see it on Steam so that they could share it with their friends!  I figured out how to port the whole thing to Steam so it became accessible to many who play the game.
 
-Since then many more updates made it to the mod.  It remains in active development to this day, although not much has been added.  Many bugs still remain with the mod.
+Since then many more updates made it to the mod.  It remains in active development to this day, although not much has been added.  Many bugs still remain with the mod, an aftermath of very aggressive feature creep.
 
 I might use this knowledge to develop my own game later on, but until then I will continue to learn.
 
