@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/20230104234347_1.jpg
+image: img/20260122001534_1.jpg
 title: "Crew Simulation"
 date: 2025-Now
 published: true
