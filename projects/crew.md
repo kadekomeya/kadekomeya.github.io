@@ -20,6 +20,7 @@ However, this time not only was crew removed from this game, but also the skills
 The mod seeks to bring it back, but with much more content.
 Both have been combined into the mod's design, where crew have their own buffs and can level up through battles won.  Not only can crew level up but the player can too.
 They can also embark and disembark, and even commandeer ships from opposing factions.
+With prior experience from working on Advanced AI, I could use what I learned to design a smart AI that not only navigates in 3D space, but also between seperate, dynamic 3D spaces.
 
 This pertains to a public global game community on Steam and with any game it is populated with some complicated users.
 For more details on the subject, please contact me in person in class.
